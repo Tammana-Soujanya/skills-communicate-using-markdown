@@ -7,7 +7,6 @@
 - Snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
 **What is a _heading_?** A heading is a larger bit of text at the beginning of a section. There are six sizes.
-
 ### Example
 
 ```md
@@ -28,29 +27,29 @@
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 
-1. In the top navigation, select the **Code** tab.
+2. In the top navigation, select the **Code** tab.
 
-1. Create a new branch with the following name:
+3. Create a new branch with the following name:
 
    ```md
    start-blog
    ```
 
-1. Above the files list, click the **Add file** button and select **Create new file**.
+4. Above the files list, click the **Add file** button and select **Create new file**.
 
-1. Use the following file name.
+5. Use the following file name.
 
    ```md
    day-1.md
    ```
 
-1. In the editor, on the first line use a level one heading to give the page a title.
+6. In the editor, on the first line use a level one heading to give the page a title.
 
    ```md
    # Daily Learning
    ```
 
-1. Add a couple level 2 headings for the names of each of the blog posts.
+7. Add a couple level 2 headings for the names of each of the blog posts.
 
    ```md
    ## Morning Planning
@@ -58,11 +57,11 @@
    ## Review
    ```
 
-1. Above the editor, click the **Preview** toggle to view the rendered version.
+8. Above the editor, click the **Preview** toggle to view the rendered version.
 
-1. In the top right, click the **Commit changes** button and commit directly to the `start-blog` branch.
+9. In the top right, click the **Commit changes** button and commit directly to the `start-blog` branch.
 
-1. With our headings created and committed, Mona should be busy reviewing your work and preparing the next steps.
+10. With our headings created and committed, Mona should be busy reviewing your work and preparing the next steps.
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
